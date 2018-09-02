@@ -1,1 +1,1 @@
-# Dmo_hw_1
+# Distributed Multiprocessing Operating System
